@@ -19,7 +19,7 @@ body{
     background-color: #ffffff;
 }
 
-/*
+
 .header1{
   background-color: #df01a7;
   display: flex;
@@ -69,8 +69,7 @@ body{
 .header2 .nav-links a{
     color: #0033A0;
     text-decoration: none;   
-    /*font-weight: bold;*/
-    /*font-size: 14px;
+    font-size: 14px;
 }
 
 
@@ -123,8 +122,8 @@ body{
   width: auto;
   }
 
-*/
 
+/*Estilo del menú*/
 
 .botonesmenu {
   margin-left: 0%;
@@ -150,9 +149,6 @@ margin-top: 0%;
   margin-top: 5%;
 }
 
-#cuadricula {
-  
-}
 
 .titulosmenu{
   font-size: 12px;
